@@ -1,10 +1,17 @@
-## Hi, I'm Eren
+<h2 align="center">Hi, I'm Eren</h2>
+
+<p align="center">
+  <a href="https://erenreyhanlioglu.github.io"><img src="https://img.shields.io/badge/Portfolio-23CE6B?logo=googlechrome&amp;logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/eren-reyhanl%C4%B1o%C4%9Flu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/MehmetErenn0"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&amp;logoColor=black" alt="Hugging Face"></a>
+  <a href="https://scholar.google.com/citations?user=hQt6mYQAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&amp;logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0009-0006-8842-1193"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&amp;logoColor=white" alt="ORCID"></a>
+  <a href="mailto:merenr.oglu@gmail.com"><img src="https://img.shields.io/badge/Email-E31F71?logo=gmail&amp;logoColor=white" alt="Email"></a>
+</p>
 
 AI / ML engineer and computer engineer from Türkiye. I build ML systems that run end to end: data pipelines, model training, and deployed APIs with monitoring, CI, tests and evaluation built in from the start.
 
 Lately: LLM agents and retrieval, credit risk modelling, real-time computer vision, and audio research on guitar tablature transcription.
-
-**Portfolio:** [erenreyhanlioglu.github.io](https://erenreyhanlioglu.github.io)
 
 ### Stack
 
@@ -42,12 +49,3 @@ Lately: LLM agents and retrieval, credit risk modelling, real-time computer visi
 
 - **Automatic Guitar Tablature Transcription using Dual-Representation Feature Fusion and Cascaded Multi-Task Learning**: *IEEE Access*, under review, 2026
 - **Deep Learning versus Machine Learning for Music Genre Classification: A Dual-Dataset Evaluation**: *ISAS 2025*
-
-### Find me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-23CE6B?logo=googlechrome&logoColor=white)](https://erenreyhanlioglu.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-reyhanl%C4%B1o%C4%9Flu/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/MehmetErenn0)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=hQt6mYQAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8842-1193)
-[![Email](https://img.shields.io/badge/Email-E31F71?logo=gmail&logoColor=white)](mailto:merenr.oglu@gmail.com)
