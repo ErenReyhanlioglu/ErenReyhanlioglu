@@ -44,6 +44,7 @@ Lately: LLM agents and retrieval, credit risk modelling, real-time computer visi
 | [**Guitar Tablature Transcription**](https://github.com/ErenReyhanlioglu/Guitar-Transcription) | Cascaded multi-task model fusing HCQT and Mel features. Tablature F1 0.776 on GuitarSet. |
 | [**Credit Risk Scorecard**](https://github.com/ErenReyhanlioglu/Credit_Risk_Analysis) | Basel-style PD scorecard on Home Credit data with WoE/IV binning and PSI monitoring. |
 | [**TID Realtime**](https://github.com/ErenReyhanlioglu/tid_realtime) | Real-time Turkish Sign Language recognition with MediaPipe and a BiLSTM with attention. |
+| **Obur** *(in progress)* | Taste-based social platform for restaurants, cafés and bars. API-first FastAPI backend on PostgreSQL + PostGIS serving a Flutter app and a Next.js web client. |
 
 ### Publications
 
