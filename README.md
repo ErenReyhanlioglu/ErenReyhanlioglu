@@ -49,4 +49,4 @@ Lately: LLM agents and retrieval, credit risk modelling, real-time computer visi
 ### Publications
 
 - **Automatic Guitar Tablature Transcription using Dual-Representation Feature Fusion and Cascaded Multi-Task Learning**: *IEEE Access*, under review, 2026 · [code](https://github.com/ErenReyhanlioglu/Guitar-Transcription)
-- [**Deep Learning versus Machine Learning for Music Genre Classification: A Dual-Dataset Evaluation**](https://ieeexplore.ieee.org/document/11101752/): *ISAS 2025* · [code](https://github.com/ErenReyhanlioglu/Music-Genre-Classification-App)
+- [**Deep Learning versus Machine Learning for Music Genre Classification: A Dual-Dataset Evaluation**](https://ieeexplore.ieee.org/document/11101752/): *ISAS 2025*
