@@ -1,12 +1,12 @@
-## Hi, I'm Eren 👋
+## Hi, I'm Eren
 
 AI / ML engineer and computer engineer from Türkiye. I build ML systems that run end to end: data pipelines, model training, and deployed APIs with monitoring, CI, tests and evaluation built in from the start.
 
 Lately: LLM agents and retrieval, credit risk modelling, real-time computer vision, and audio research on guitar tablature transcription.
 
-🌐 **Portfolio:** [erenreyhanlioglu.github.io](https://erenreyhanlioglu.github.io)
+**Portfolio:** [erenreyhanlioglu.github.io](https://erenreyhanlioglu.github.io)
 
-### 🛠️ Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -26,7 +26,7 @@ Lately: LLM agents and retrieval, credit risk modelling, real-time computer visi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it does |
 | --- | --- |
@@ -38,12 +38,12 @@ Lately: LLM agents and retrieval, credit risk modelling, real-time computer visi
 | [**Credit Risk Scorecard**](https://github.com/ErenReyhanlioglu/Credit_Risk_Analysis) | Basel-style PD scorecard on Home Credit data with WoE/IV binning and PSI monitoring. |
 | [**TID Realtime**](https://github.com/ErenReyhanlioglu/tid_realtime) | Real-time Turkish Sign Language recognition with MediaPipe and a BiLSTM with attention. |
 
-### 📄 Publications
+### Publications
 
 - **Automatic Guitar Tablature Transcription using Dual-Representation Feature Fusion and Cascaded Multi-Task Learning**: *IEEE Access*, under review, 2026
 - **Deep Learning versus Machine Learning for Music Genre Classification: A Dual-Dataset Evaluation**: *ISAS 2025*
 
-### 📫 Find me
+### Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-23CE6B?logo=googlechrome&logoColor=white)](https://erenreyhanlioglu.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-reyhanl%C4%B1o%C4%9Flu/)
